@@ -1,0 +1,7 @@
+{
+  "name": "puppet",
+  "version": "0.1.0",
+  "author": "Heorhi Vysotski",
+  "summary": "module makes the setup current version puppet-server and puppet-agent",
+  "license": "anyone can use it",
+}
